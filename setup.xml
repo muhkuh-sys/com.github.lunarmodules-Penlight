@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="mbs/setup2html.xsl"?>
+
+<muhkuh_buildsystem group="com.github.lunarmodules" module="Penlight">
+	<project_version>1.11.0.1</project_version>
+
+	<scons>
+		<group>org.scons</group>
+		<name>scons-local</name>
+		<package>scons-local</package>
+		<version>3.1.2_1</version>
+		<typ>tar.bz2</typ>
+	</scons>
+
+	<tools/>
+</muhkuh_buildsystem>
