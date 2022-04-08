@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="mbs/setup2html.xsl"?>
 
 <muhkuh_buildsystem group="com.github.lunarmodules" module="Penlight">
-	<project_version>1.11.0.1</project_version>
+	<project_version>1.12.0.1</project_version>
 
 	<scons>
 		<group>org.scons</group>
